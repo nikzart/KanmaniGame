@@ -53,7 +53,7 @@ const Config = {
   GIFT_VICTORY_SCALE: 0.2,
 
   /** The time needed for Patty to touch a block before it moves. */
-  BLOCK_HYSTERESIS: 15,
+  BLOCK_HYSTERESIS: 0,
   BLOCK_OFF_GRID_HYSTERESIS: 25,
   /** The time it takes for the block to move one tile. */
   BLOCK_MOVE_DURATION: 200,

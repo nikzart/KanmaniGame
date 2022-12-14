@@ -35,11 +35,11 @@ class Instructions {
     // Show instructions at the top.
     f('Help', left, top, normalColor);
     f('Kanmani', left + 61 - 3, top - 3, pattyColor).setStroke(pattyStrokeColor, 6);
-    f('get her', left + 61 + 71, top, normalColor);
-    f('gift', left + 61 + 71 + 95, top, giftColor);
-    f('from', left + 61 + 71 + 95 + 58, top, normalColor);
-    f('Santa', left + 61 + 71 + 95 + 58 + 61, top, santaColor);
-    f('!', left + 61 + 71 + 95 + 58 + 61 + 65, top, normalColor);
+    f('  get her', left + 61 + 71, top, normalColor);
+    f('  gift', left + 61 + 71 + 95, top, giftColor);
+    f('  from', left + 61 + 71 + 95 + 58, top, normalColor);
+    f('  Santa', left + 61 + 71 + 95 + 58 + 61, top, santaColor);
+    f('  !', left + 61 + 71 + 95 + 58 + 61 + 65, top, normalColor);
 
     top += lineHeight;
     f('Don\'t let the', left, top, normalColor);

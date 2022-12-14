@@ -15,7 +15,7 @@ class VictoryCutscene {
     this.cathyText_ = scene.add.text(
         53,
         185,
-        'Yay! Kanmani mole, you solved it!');
+        'Yay! Kanmani mole, you solved it! You have won 1 surprise voucher!');
     this.cathyText_.setColor('#ffffcc');
     this.cathyText_.setFontSize(30);
     this.cathyText_.setStroke('black', 5);

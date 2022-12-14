@@ -116,9 +116,9 @@ const Config = {
   /** How long it takes the Grinch to run one tile. */
   GRINCH_MOVE_DURATION: 300,
   /** How long it takes the Grinch to faint. */
-  GRINCH_FAINT_DURATION: 500,
+  GRINCH_FAINT_DURATION: 1000,
   /** How long to wait before the Grinch faints. */
-  GRINCH_FAINT_DELAY: 1000,
+  GRINCH_FAINT_DELAY: 500,
 
   /** How fast runners move through the grid. */
   GRID_RUNNER_FAST_MULTIPLIER: 15,

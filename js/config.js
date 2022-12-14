@@ -53,8 +53,8 @@ const Config = {
   GIFT_VICTORY_SCALE: 0.2,
 
   /** The time needed for Patty to touch a block before it moves. */
-  BLOCK_HYSTERESIS: 1,
-  BLOCK_OFF_GRID_HYSTERESIS: 1,
+  BLOCK_HYSTERESIS: 0,
+  BLOCK_OFF_GRID_HYSTERESIS: 25,
   /** The time it takes for the block to move one tile. */
   BLOCK_MOVE_DURATION: 200,
   /**
@@ -116,7 +116,7 @@ const Config = {
   /** How long it takes the Grinch to run one tile. */
   GRINCH_MOVE_DURATION: 300,
   /** How long it takes the Grinch to faint. */
-  GRINCH_FAINT_DURATION: 1000,
+  GRINCH_FAINT_DURATION: 500,
   /** How long to wait before the Grinch faints. */
   GRINCH_FAINT_DELAY: 1000,
 

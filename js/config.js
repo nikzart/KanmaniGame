@@ -114,9 +114,9 @@ const Config = {
   /** The number of frames per second to animate the Grinch when moving. */
   GRINCH_ANIMATION_SPEED: 20,
   /** How long it takes the Grinch to run one tile. */
-  GRINCH_MOVE_DURATION: 800,
+  GRINCH_MOVE_DURATION: 300,
   /** How long it takes the Grinch to faint. */
-  GRINCH_FAINT_DURATION: 1000,
+  GRINCH_FAINT_DURATION: 300,
   /** How long to wait before the Grinch faints. */
   GRINCH_FAINT_DELAY: 500,
 

@@ -49,9 +49,9 @@ class Instructions {
     top += 2 * lineHeight;
     f('- Move', left, top, normalColor);
     f('Kanmani', left + 83 - 3, top - 3, pattyColor).setStroke(pattyStrokeColor, 6);
-    f('with the', left + 83 + 71, top, normalColor);
-    f('arrow keys', left + 83 + 71 + 107, top, keyColor);
-    f('.', left + 83 + 71 + 107 + 125, top, normalColor);
+    f('  with the', left + 83 + 71, top, normalColor);
+    f('  arrow keys', left + 83 + 71 + 107, top, keyColor);
+    f('  .', left + 83 + 71 + 107 + 125, top, normalColor);
     
     top += lineHeight;
     f('- Press', left, top, normalColor);

@@ -105,11 +105,11 @@ const Config = {
   SANTA_MOVE_DURATION: 300,
 
   /** The dimensions of each frame of the Grinch sprite. */
-  GRINCH_RUN_SPRITE_WIDTH: 79,
-  GRINCH_RUN_SPRITE_HEIGHT: 84,
+  GRINCH_RUN_SPRITE_WIDTH: 69,
+  GRINCH_RUN_SPRITE_HEIGHT: 74,
   GRINCH_RUN_SCALE: 0.6,
-  GRINCH_FAINT_SPRITE_WIDTH: 51,
-  GRINCH_FAINT_SPRITE_HEIGHT: 94,
+  GRINCH_FAINT_SPRITE_WIDTH: 41,
+  GRINCH_FAINT_SPRITE_HEIGHT: 84,
   GRINCH_FAINT_SCALE: 0.6,
   /** The number of frames per second to animate the Grinch when moving. */
   GRINCH_ANIMATION_SPEED: 20,
